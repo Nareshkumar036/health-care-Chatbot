@@ -17,7 +17,7 @@ A simple web-based chatbot that provides **general health advice** and **first a
 ## How to Run
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/healthcare-chatbot.git
+   git clone https://github.com/Nareshkumar036/healthcare-chatbot.git
    ```
 2. Open the `chatbot.html` file in a web browser.
 3. Start chatting by entering health-related questions.
